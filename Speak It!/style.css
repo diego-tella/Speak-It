@@ -1,0 +1,17 @@
+body{
+    min-width: 500px;
+    min-height: 10px;
+}
+#texto{
+    width: 240px;
+}
+#msg{
+    font-weight: bold;
+}
+#div1{
+    border-style: dashed;
+    border-color: white;
+    border-width: 2px;
+    padding: 5px;
+
+}
